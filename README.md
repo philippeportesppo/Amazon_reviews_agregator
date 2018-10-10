@@ -11,3 +11,6 @@ To identify this value, you can query a product of that category and check the r
 An optional export_ASIN parameter allows to dump the ASIN id related to the review.
 
 Example: Amazon_Reviews.py 565108 export_SKU
+
+Hope you like it!
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/philippeportesppo)
